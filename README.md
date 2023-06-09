@@ -23,7 +23,6 @@ Please follow the following commands to start the project
 
 - Download the Laravel folder
 - composer install --ignore-platform-reqs
-- CREATE DATABASE 'sayarat'
 - php artisan migrate
 - php artisan db:seed
 - php aritsan serve
